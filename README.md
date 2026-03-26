@@ -8,4 +8,4 @@
 ## 📦 업로드된 Skill
 
 ### 1. **keycloak-admin-api**
-테넌트마다 Realm을 분리하는 Realm-per-Tenant 멀티테넌트 아키텍처에서 Keycloak Admin REST API를 활용한 통합 패턴을 제공하는 스킬입니다.
+테넌트마다 Realm을 분리하는 Realm-per-Tenant 멀티테넌트 아키텍처에서 Keycloak Admin REST API를 활용한 Application -> KeyCloak 단방향 통합 패턴을 제공하는 스킬입니다.
